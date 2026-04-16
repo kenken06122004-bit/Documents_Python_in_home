@@ -1,0 +1,3 @@
+Xin chào
+Tôi đang học Python
+

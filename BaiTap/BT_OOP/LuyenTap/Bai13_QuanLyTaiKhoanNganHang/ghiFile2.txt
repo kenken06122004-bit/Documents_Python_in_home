@@ -1,0 +1,6 @@
+Loai tai khoan,So tai khoan,Ten nguoi so huu,So du kha dung,Lai suat_Phi duy tri
+TaiKhoanVangLai,TK002,Le Thi B,5000000,50000.0
+TaiKhoanTietKiem,TK003,Tran Van C,8000000,0.06
+TaiKhoanVangLai,TK004,Pham Van D,12000000,70000.0
+TaiKhoanTietKiem,TK005,Do Thi E,20000000,0.045
+TaiKhoanVangLai,TK006,Nguyen Van F,3500000,30000.0

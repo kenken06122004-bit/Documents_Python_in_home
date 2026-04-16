@@ -1,0 +1,5 @@
+001	Mot	Mot	Mot
+002	Hai	Hai	Hai
+003	Ba	Ba	Ba
+004	Bon 	Bon	Bon
+

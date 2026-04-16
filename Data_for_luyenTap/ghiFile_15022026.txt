@@ -1,0 +1,6 @@
+SV001,Nguyen Van A,20,Da Nang,8.0,7.5,9.0
+SV002,Le Thi B,21,Quang Nam,6.5,7.0,7.5
+SV003,Tran Van C,19,Hue,9.0,8.5,8.0
+SV004,Pham Thi D,20,Da Nang,5.0,5.5,6.0
+SV005,Nguyen Van Phi,24,Nam,10.0,10.0,10.0
+Huynh Ba Thai Hung,Huynh Ba Thai Hung,24,Nam,10.0,10.0,10.0

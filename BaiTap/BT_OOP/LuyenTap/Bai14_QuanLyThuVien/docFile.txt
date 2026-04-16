@@ -1,0 +1,8 @@
+SGK01,Toan 12,Bo GD,50000,true
+SGK02,Vat Ly 11,Bo GD,45000,false
+SGK03,Hoa Hoc 10,Bo GD,47000,true
+SGK04,Sinh Hoc 12,Bo GD,52000,false
+STK01,Python Co Ban,Nguyen Van A,120000,10000
+STK02,C++ Nang Cao,Tran Van B,150000,20000
+STK03,Lap Trinh Java,Le Van C,180000,25000
+STK04,Thuat Toan Co Ban,Pham Van D,200000,30000

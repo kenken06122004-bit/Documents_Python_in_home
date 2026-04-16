@@ -1,0 +1,3 @@
+Dong 1: Xin chao 
+Dong 2: Toi dang hoc Python
+Dong 3: Them noi dung moi
