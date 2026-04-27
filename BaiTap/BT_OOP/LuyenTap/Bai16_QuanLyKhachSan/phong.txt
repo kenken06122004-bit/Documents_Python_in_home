@@ -1,0 +1,12 @@
+PT01,Thuong,300,Trong
+PT02,Thuong,300,Da thue
+PV01,VIP,800,Trong
+PV02,VIP,800,Da thue
+PF01,Family,1200,Trong
+PF02,Family,1200,Trong
+PT03,Thuong,300,Trong
+PV03,VIP,800,Trong
+PF03,Family,1200,Da thue
+PT04,Thuong,300,Trong
+PT05,Thuong,300,Trong
+PV04,VIP,800,Trong
